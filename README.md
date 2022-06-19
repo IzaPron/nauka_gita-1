@@ -1,4 +1,4 @@
-# To jest nagłówek
+# Nauka Gita
 
 - pozycja 1
 - pozycja 2
